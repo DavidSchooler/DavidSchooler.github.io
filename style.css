@@ -1,33 +1,59 @@
 /* This is a comment */
+.jumbotron {
+  background: linear-gradient(lime, #008000);
+  padding: 2px;
+}
 
+.contact{
+  margin-left: 351px;
+  font-family: montez;
+  color: black;
+}
+.about {
+  margin-left:25px;
+  font-family: montez;
+  color: black;
 
+}
+.protfolio {
+  margin-left:11px;
+  font-family: montez;
+  color: black;
+}
+.title{
+  font-family: montez;
+}
 body{
-    font-family: Helvetica;
-    background-color: #eeeeee;
+   background: linear-gradient(#007000,lime)
+}
+#about{
+
+ background: #8E4587;
+
+  color: black;
+
 }
 
-div {
-    width: 300px;
-    border: 25px solid green;
-    padding: 25px;
-    margin: 25px;
+.space{
+  hight: 400px;
+  width: 400px;
+  padding-left:60px;
 }
-
-h1{
-    font-size: 10px;
-    margin: 2;
+#portfolio{
+  background: #551a8b ;
 }
+.Email{
 
-h2{
-  color: #555;
-  border-top: solid 1px #123;
+  color: black;
+
 }
+.Phone{
 
-#emphasis {
-    font-size: 30px;
+  color: black;
+
 }
+#contact{
 
-#veryimportant{
-    font-size: 100px;
-    font-family: Monaco;
+background: lightgrey;
+
 }
