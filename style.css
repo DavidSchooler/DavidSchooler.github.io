@@ -36,7 +36,7 @@ body {
 }
 }
 
-/* For devices larger than 550px */
+
 @media (min-width: 550px) {
 .container {
 	width: 80%;
@@ -93,7 +93,7 @@ body {
 .one-half.column {
 	width: 48%;
 }
-/* Offsets */
+
 .offset-by-one.column,  .offset-by-one.columns {
 	margin-left: 8.66666666667%;
 }
@@ -137,8 +137,8 @@ body {
 	margin-left: 52%;
 }
 
-/* Typography
-********************************************************************* */
+
+
 h1, h2, h3, h4, h5, h6 {
 	margin-top: 0;
 	margin-bottom: 2rem;
@@ -407,7 +407,7 @@ nav ul a:hover {
 }
 
 
-/*animated scroll arrow animation*/
+
 @-webkit-keyframes fade_move_down {
  0% {
 -webkit-transform:translate(0, -10px) rotate(45deg);
