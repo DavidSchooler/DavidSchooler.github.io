@@ -689,7 +689,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 	width: 70px;
 	height: 2px;
 	background: #e55d87; /* Old browsers */
-	background: -moz-linear-gradient(-45deg, #e55d87 0%, #5fc3e4 100%);
+	background: -moz-linear-gradient(-45deg, #000000 0%, #ece3e3 100%);
 	background: -webkit-linear-gradient(-45deg, #e55d87 0%, #5fc3e4 100%);
 	background: linear-gradient(135deg, #e55d87 0%, #5fc3e4 100%);
 	margin-bottom: 50px;
