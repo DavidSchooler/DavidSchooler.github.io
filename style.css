@@ -210,10 +210,11 @@ body {
 	}
 	/* Header Section
 	********************************************************************* */
-.background{
-    background-image: url("socials-p-800.jpg");
+.background {
+    background-image: ("socials-p-800.jpg");
     background-repeat: no-repeat;
     background-position: top;
+		align-self: center;
 }
 	.title {
 		-webkit-align-self: center;
