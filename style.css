@@ -210,7 +210,7 @@ body {
 	}
 	/* Header Section
 	********************************************************************* */
-body{
+.background{
     background-image: url("socials-p-800.jpg");
     background-repeat: no-repeat;
     background-position: top;
