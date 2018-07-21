@@ -118,7 +118,7 @@ input:-webkit-autofill:focus {
 
 .social-menu li a {
     display: block;
-    width: 36px;
+    width: ppx;
     height: 36px;
     text-align: center;
     line-height: 2.5em;
